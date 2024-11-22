@@ -1,0 +1,6 @@
+boto3
+langchain
+chromadb
+sentence-transformers
+tiktoken
+pypdf

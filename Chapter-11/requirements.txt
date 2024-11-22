@@ -1,0 +1,10 @@
+boto3
+langchain
+langchain-aws 
+langchain-community 
+langchain_experimental 
+pinecone-client 
+langchain_pinecone
+sentence_transformers
+langchain-huggingface
+langchainhub
